@@ -59,3 +59,4 @@ python manage.py createsuperuser
 ```sh
 python manage.py runserver
 ```
+9. При помощи Админ-панели Django создать соответствующие записи в таблицах. 
